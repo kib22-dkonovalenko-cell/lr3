@@ -1,0 +1,9 @@
+{
+  "text_file": "text.txt",
+  "target_language": "de",
+  "module": "module2",
+  "output": "screen",
+  "max_characters": 600,
+  "max_words": 100,
+  "max_sentences": 10
+}
